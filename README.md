@@ -21,5 +21,4 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 4. O aplicativo será carregado e você poderá interagir com ele em seu dispositivo.
 
 ## Imagem do projeto
-
-![tela de login mobile](https://github.com/Samuelloliiveira/loginScreen/blob/main/loginScreen.jpeg?raw=true)
+<img src="https://github.com/Samuelloliiveira/loginScreen/blob/main/loginScreen.jpeg?raw=true" alt="tela de login mobile" width="300" height="700">
