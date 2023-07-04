@@ -9,7 +9,8 @@ facilitando o acesso a um sistema ou aplicativo.
 Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 
 1. Clone este repositório
-2. Instale as dependências do projeto ```npm install```
+2. Navegue até a pasta do projeto no termial e abra no VS Code
+3. Instale as dependências do projeto usando o seguinte comando no terminal ```npm install```
 
 ## Executando o Projeto
 :warning: Certifique-se de ter o Expo Go instalado em seu dispositivo móvel. Você pode encontrá-lo na App Store (iOS) ou na Play Store (Android).
