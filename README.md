@@ -19,3 +19,7 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 2. O Expo DevTools será aberto no seu navegador. Você verá um código QR.
 3. Use o Expo Go para ler o código QR e abrir o aplicativo no seu dispositivo móvel.
 4. O aplicativo será carregado e você poderá interagir com ele em seu dispositivo.
+
+## Imagem do projeto
+
+![tela de login mobile](https://github.com/Samuelloliiveira/loginScreen/blob/main/loginScreen.jpeg?raw=true)
